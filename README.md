@@ -1,5 +1,5 @@
 ### EX-06: Information Retrieval Using Vector Space Model in Python
-### DATE: 03-10-2025
+### DATE: 06-10-2025
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
